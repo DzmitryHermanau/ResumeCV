@@ -1,3 +1,7 @@
+package basic;
+
+import basic.ImageForFon;
+
 import java.io.*;
 
 public class ResumeCV {
